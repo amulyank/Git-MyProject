@@ -2,4 +2,6 @@ Welcome
 new info
 1
 
-Author :Thomas Thina
+
+Author :Thomas Clause Thina
+
