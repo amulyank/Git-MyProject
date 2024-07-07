@@ -2,4 +2,4 @@ Welcome
 new info
 1
 
-Author :Thomas
+Author :Thomas Clause
